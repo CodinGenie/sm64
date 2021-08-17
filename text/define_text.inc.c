@@ -6,19 +6,19 @@
 
 static const u8 Debug0[] = {
     _("ＳＴＡＧＥ　ＳＥＬＥＣＴ\n"
-      "　つづける？\n"
-      "　１　マウンテン\n"
-      "　２　ファイアーバブル\n"
-      "　３　スノースライダー\n"
-      "　４　ウォーターランド\n"
-      "　　　クッパ１ごう\n"
-      "　もどる")
+      "　Continue？\n"
+      "　１　Mountain\n"
+      "　２　Fire_bubble\n"
+      "　３　Vinegar_no_slider\n"
+      "　４　Water_land\n"
+      "　　　Bowser_go_game_cormorant\n"
+      "　Return")
 };
 
 static const u8 Debug1[] = {
     _("ＰＡＵＳＥ　　　　\n"
-      "　つづける？\n"
-      "　やめる　？")
+      "　Continue？\n"
+      "　Stop　？")
 };
 
 static const struct DialogEntry debug_text_entry_0 = {
