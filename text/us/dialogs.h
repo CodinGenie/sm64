@@ -18,9 +18,9 @@
 
 DEFINE_DIALOG(DIALOG_000, 1, 6, 30, 200, _("\
 Wow! You're smack in the\n\
-middle of the battlefield.\n\
+middle of the boss fight.\n\
 You'll find the Power\n\
-Stars that Bowser stole\n\
+Stars that Wart stole\n\
 inside the painting\n\
 worlds.\n\
 First, talk to the\n\
@@ -138,7 +138,7 @@ Here you go--you've won\n\
 it, fair and square!"))
 
 DEFINE_DIALOG(DIALOG_008, 1, 4, 30, 200, _("\
-BEWARE OF CHAIN CHOMP\n\
+BEWARE OF CHAMP CHOMP\n\
 Extreme Danger!\n\
 Get close and press [C]^\n\
 for a better look.\n\
@@ -262,7 +262,7 @@ yourself in battle.\n\
 Can you pick me up from\n\
 the back and hurl me to\n\
 this royal turf? I think\n\
-that you cannot!"))
+that you cannot! weakness reveaild"))
 
 DEFINE_DIALOG(DIALOG_018, 1, 4, 30, 200, _("\
 I'm sleeping because...\n\
